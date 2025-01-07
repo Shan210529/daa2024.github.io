@@ -14,8 +14,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://shan210529.github.io/daa2024.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/shashank-harakuni-1ba54932b/)
 
 ## Portfolio Topic
 
